@@ -13,12 +13,8 @@ Thank you for considering sponsoring this project. Your support helps me continu
 </div>
 
 
-#### US Dollar
+#### UA Hryvnia
 
-<div style="display:flex;align-items:center">
-    <img src="./us-dollar.svg" alt="US Dollar" width="48" height="48" style="margin-right:1rem">
-    <div>
-        <h4 style="margin:0">Donate with Monobank</h4>
-        <a href="https://send.monobank.ua/jar/9VWrS8ZUAi">Donate</a>
-    </div>
-</div>
+<a href="https://send.monobank.ua/jar/5ryawQCGFP">
+    <img src="./qr.jpg">
+</a>
