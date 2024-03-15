@@ -11,10 +11,3 @@ Thank you for considering sponsoring this project. Your support helps me continu
         <code>0x41981A575A95799bc369C6d167faE35C0d2d53a1</code>
     </div>
 </div>
-
-
-#### UA Hryvnia
-
-<a href="https://send.monobank.ua/jar/5ryawQCGFP">
-    <img src="./qr.jpg">
-</a>
